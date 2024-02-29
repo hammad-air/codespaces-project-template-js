@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/own2.jpeg";
+import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
 /**
@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/own2.jpeg";
 
-const imageAltText = "hammad sheikh bin nadeem";
+const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
 const Home = ({ name, title }) => {
   return (
